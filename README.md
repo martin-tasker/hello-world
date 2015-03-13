@@ -1,2 +1,5 @@
 # hello-world
-hello tutorial
+
+Bonjour tout le monde!
+
+This is the **GitHub** practice project.  Enjoy!!
